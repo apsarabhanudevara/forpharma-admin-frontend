@@ -40,6 +40,11 @@ const NAVIGATION: Navigation = [
     title: "RCPA",
     icon: <DifferenceIcon />,
   },
+  {
+    segment:"rcpa",
+    title: "Employees",
+    icon: <EmployeeIcon/>
+  },
 ];
 
 export default function RootLayout({
