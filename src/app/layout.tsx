@@ -4,6 +4,7 @@ import MedicalServiceIcon from "@mui/icons-material/MedicalServices";
 import VaccinesIcon from "@mui/icons-material/Vaccines";
 import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 import DifferenceIcon from "@mui/icons-material/Difference";
+import EmployeeIcon from "@mui/icons-material/People";
 import { AppRouterCacheProvider } from "@mui/material-nextjs/v14-appRouter";
 import type { Navigation } from "@toolpad/core";
 import Image from "next/image";
